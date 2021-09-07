@@ -1,7 +1,8 @@
 <strong>  Hi 👋, I’m Hemant Saraf </strong>
 a passionate software developer from India
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning NodeJS, JAVA
+- 🌱 Love building projects in React, having good knowledge of front-end technologies
+- I’m currently learning MongoDB
 - 📫 How to reach me, drop an email at hemantsaraf08@gmail.com
 
 <!---
