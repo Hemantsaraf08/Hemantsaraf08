@@ -2,7 +2,7 @@
 a passionate software developer from India
 - 👀 I’m interested in web development. 
 - 🌱 Love building projects in React, having good knowledge of front-end technologies
-- I’m currently learning MongoDB
+- I'm currently pursuing mobile development using react native in depth
 - 📫 How to reach me, drop an email at hemantsaraf08@gmail.com
 
 <!---
