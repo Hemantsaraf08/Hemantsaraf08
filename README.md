@@ -1,8 +1,8 @@
 <strong>  Hi 👋, I’m Hemant Saraf </strong>
 a passionate software developer from India
-- 👀 I’m interested in web development. 
-- 🌱 Love building projects in React, having good knowledge of front-end technologies
-- I'm currently pursuing mobile development using react native in depth
+- Senior Software developer with 5+ years of development experience
+- 👀 Building Human-in-loop AI applications for enterprises. 
+- 🌱 Love building projects in React, having great knowledge of front-end technologies
 - 📫 How to reach me, drop an email at hemantsaraf08@gmail.com
 
 <!---
