@@ -2,7 +2,7 @@
 a passionate software developer from India
 - Senior Software developer with 5+ years of development experience
 - 👀 Building Human-in-loop AI applications for enterprises. 
-- 🌱 Love building projects in React, having great knowledge of front-end technologies
+- 🌱 Love building web and mobile apps in React, having great knowledge of front-end technologies
 - 📫 How to reach me, drop an email at hemantsaraf08@gmail.com
 
 <!---
