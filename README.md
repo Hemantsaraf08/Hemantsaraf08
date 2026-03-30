@@ -4,7 +4,7 @@ a passionate software developer from India
 - 👀 Building Human-in-loop AI applications for enterprises. 
 - 🌱 Love building web and mobile apps in React, having great knowledge of front-end technologies
 - 📫 How to reach me, drop an email at hemantsaraf08@gmail.com
-- Connect with me on [![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com](https://www.linkedin.com/in/hsaraf/)
+- Connect with me on [![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/hsaraf/)
 
 
 <!---
